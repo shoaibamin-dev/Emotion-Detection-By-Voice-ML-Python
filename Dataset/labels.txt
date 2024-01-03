@@ -1,0 +1,7 @@
+normal 1
+happy 2
+sad 3
+fear 4
+surprise 5
+angry 6
+                                                           
